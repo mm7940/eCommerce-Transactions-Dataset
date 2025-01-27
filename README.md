@@ -45,7 +45,7 @@ Build a model that takes a user’s profile and transaction history as input to 
 
 - Recommended similar customers with assigned similarity scores.
 - Visualization: [Screenshot](Screenshot(161).png).
-
+![Top Customers by Transaction Amount](Screenshot%20(159).png)
 ---
 
 ## Task 3: Customer Segmentation / Clustering
