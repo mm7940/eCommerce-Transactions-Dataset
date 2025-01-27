@@ -1,0 +1,200 @@
+CustomerID,TotalValue,TransactionCount,CustomerName,Region,SignupDate,Cluster
+C0001,3354.5200000000004,5,Lawrence Carroll,South America,2022-07-10,3
+C0002,1862.74,4,Elizabeth Lutz,Asia,2022-02-13,3
+C0003,2725.38,4,Michael Rivera,South America,2024-03-07,3
+C0004,5354.88,8,Kathleen Rodriguez,South America,2022-10-09,0
+C0005,2034.24,3,Laura Weber,Asia,2022-08-15,1
+C0006,4227.57,4,Brittany Palmer,South America,2024-01-07,3
+C0007,2579.8199999999997,3,Paul Graves,Asia,2022-06-18,3
+C0008,4271.61,10,David Li,North America,2024-01-13,0
+C0009,896.5,3,Joy Clark,Europe,2023-08-14,1
+C0010,1717.5500000000002,4,Aaron Cox,Europe,2022-12-15,3
+C0011,3730.0,5,Bryan Mathews,South America,2022-12-12,2
+C0012,5231.259999999999,7,Kevin May,South America,2024-08-07,2
+C0013,6000.56,7,Lauren Buchanan,South America,2024-05-19,0
+C0014,318.66,1,Deborah Wilcox,Europe,2024-06-22,1
+C0015,1157.48,2,Tina Duran,North America,2023-11-20,1
+C0016,3874.42,5,Emily Woods,North America,2024-01-03,2
+C0017,4753.82,8,Jennifer King,Europe,2023-12-05,0
+C0018,4781.85,5,Tyler Haynes,North America,2024-09-21,2
+C0019,2185.8199999999997,6,Brandon Rodriguez,Europe,2023-01-12,3
+C0020,922.41,1,Mr. Manuel Conway,North America,2024-06-11,1
+C0021,5419.92,8,Robert Blanchard,Asia,2023-04-17,0
+C0022,4655.07,6,Teresa Esparza,Asia,2023-10-27,2
+C0023,5158.65,6,Nicholas Cain,Europe,2022-03-04,2
+C0024,3627.02,7,Michele Cooley,North America,2024-02-05,2
+C0025,1589.81,4,Gregory Odom,South America,2022-07-04,3
+C0026,3549.05,4,Sara Miller,North America,2024-05-03,3
+C0027,2562.94,4,Justin Heath,Asia,2022-11-09,3
+C0028,6819.57,8,Jennifer Pena,Asia,2024-06-29,0
+C0029,1785.8700000000001,4,Erin Manning,North America,2022-04-16,3
+C0030,2549.6800000000003,5,Mark Brock,North America,2024-01-30,3
+C0031,2005.38,4,Tina Miller,South America,2024-04-11,3
+C0032,673.0,3,Dustin Campbell,South America,2024-04-17,1
+C0033,132.64,1,Tyler Holt,North America,2024-08-04,1
+C0034,3073.2000000000003,6,Dalton Perez,North America,2023-09-27,2
+C0035,2587.61,4,Brianna Richardson,North America,2024-10-01,3
+C0036,1877.96,3,Brian Aguilar DDS,North America,2024-07-06,1
+C0037,4252.77,5,Linda Smith,Europe,2023-02-04,2
+C0038,2696.85,5,Jeffrey Perkins,North America,2022-04-16,3
+C0039,4239.6,6,Angela Harris,South America,2024-10-13,2
+C0040,3969.3999999999996,3,Michael Harrell,Asia,2022-03-07,3
+C0041,6149.78,7,Lindsey Deleon,Europe,2023-12-27,0
+C0042,2402.49,3,Heather Riley,North America,2023-03-15,3
+C0043,1131.3200000000002,3,Sandy Short MD,Asia,2023-02-05,1
+C0044,3230.1099999999997,3,Kenneth Alexander,Europe,2024-07-10,3
+C0045,6021.8,7,Michael Williams,Asia,2022-02-25,0
+C0046,5627.83,7,Beth Cardenas,North America,2024-10-23,0
+C0047,2870.54,7,Samantha Frank,North America,2024-03-22,2
+C0048,3850.9399999999996,5,Matthew Park,South America,2024-11-07,2
+C0049,2315.48,8,Jason Yates,North America,2024-09-18,2
+C0050,3068.83,3,Ryan Davis,North America,2024-03-02,3
+C0051,5699.57,7,Nicholas Ellis,Europe,2023-12-21,0
+C0052,2488.01,4,Stanley Aguirre,South America,2024-02-20,3
+C0053,5316.46,6,Albert Burke,Europe,2022-06-18,2
+C0054,8040.389999999999,8,Bruce Rhodes,Asia,2024-09-29,0
+C0055,2857.6800000000003,5,Lauren Williams,North America,2024-11-11,3
+C0056,3182.94,5,Erika Fernandez,Asia,2024-04-12,3
+C0057,4536.4,6,Elizabeth Nguyen,Europe,2024-07-27,2
+C0058,396.34,1,Zachary Turner,North America,2024-01-28,1
+C0059,7073.28,8,Mrs. Kimberly Wright,North America,2024-04-07,0
+C0060,82.36,1,James Murphy,Europe,2022-04-22,1
+C0061,2138.26,3,Brandon Escobar,Europe,2023-03-06,1
+C0062,1639.54,3,Jeffery Hartman,Europe,2022-12-14,1
+C0063,1378.1699999999998,2,Wayne Ferguson,Europe,2024-02-05,1
+C0064,4039.77,5,Martha Montgomery,Europe,2023-10-22,2
+C0065,7663.7,10,Gerald Hines,North America,2024-07-10,0
+C0066,3799.2799999999997,3,Catherine White,Europe,2024-11-15,3
+C0067,4090.84,6,Carl Gonzalez,North America,2023-07-06,2
+C0068,5950.42,8,Mark Cox,North America,2023-04-04,0
+C0069,2878.69,5,Stacy Foster,Europe,2023-12-03,3
+C0070,3125.49,4,Timothy Perez,Europe,2022-03-15,3
+C0071,1400.83,3,Taylor Murphy,South America,2022-07-01,1
+C0072,2999.59,5,Sarah Scott,North America,2024-07-24,3
+C0073,2060.54,3,Heidi Johnson,Europe,2022-08-20,1
+C0074,3055.2200000000003,3,Jonathan Russo,Europe,2022-05-27,3
+C0075,5848.97,9,Misty Higgins,Europe,2023-05-01,0
+C0076,2333.06,5,Emily Roberts,South America,2024-02-11,3
+C0077,837.3,3,Scott Sims,South America,2023-10-18,1
+C0078,995.52,1,Julia Palmer,Asia,2024-11-13,1
+C0079,4251.5599999999995,4,Brian Murillo,North America,2022-02-02,3
+C0080,1007.52,1,David Gonzalez,Asia,2024-02-07,1
+C0081,3542.48,6,Kimberly Turner,Europe,2024-02-24,2
+C0082,7572.91,7,Aimee Taylor,South America,2022-05-13,0
+C0083,642.8,3,Christina Stark,South America,2022-04-07,1
+C0084,4441.1,9,Belinda Garner,Asia,2024-09-17,0
+C0085,2598.33,3,Richard Brown,South America,2024-09-22,3
+C0086,2754.68,5,Stephanie Peterson,Europe,2022-09-18,3
+C0087,6604.23,7,Travis Campbell,South America,2024-04-11,0
+C0088,2135.38,5,Carlos Murray,Asia,2023-05-14,3
+C0089,2556.2200000000003,2,Paul Carter,Europe,2024-04-02,1
+C0090,4138.16,7,Charles Hamilton,Asia,2023-10-17,2
+C0091,3137.66,6,Lisa Kirk,South America,2023-03-16,2
+C0092,3015.95,4,Jacqueline Zamora,Asia,2024-05-29,3
+C0093,5294.99,9,Nancy Walker,Asia,2024-07-13,0
+C0094,1166.97,4,Emily Trevino,North America,2023-09-16,1
+C0095,1284.27,2,William Walker,South America,2023-03-04,1
+C0096,6072.92,5,Benjamin Mcclure,South America,2022-11-18,2
+C0097,137.54,1,Tina Ford,Asia,2023-12-18,1
+C0098,3158.02,8,Laura Gilbert,North America,2024-10-21,2
+C0099,6715.72,8,Rodney Eaton,South America,2023-01-29,0
+C0100,5003.45,6,Clinton Gomez,Europe,2023-03-16,2
+C0101,5550.99,8,Kelsey Roberts,Asia,2023-09-30,0
+C0102,6132.360000000001,8,Michael Atkinson,South America,2022-09-16,0
+C0103,2462.5499999999997,5,Jennifer Munoz,Europe,2022-05-15,3
+C0104,6579.1,8,Laura Bennett,South America,2022-02-10,0
+C0105,4807.45,6,Ryan Hampton,Europe,2024-11-11,2
+C0106,2939.3,5,Amanda Mcguire,Asia,2022-09-22,3
+C0107,3623.92,5,Dana Cantrell,South America,2023-02-07,2
+C0108,4848.54,7,David Davis,South America,2022-09-28,2
+C0109,5487.25,11,Abigail Jones,North America,2022-05-09,0
+C0110,942.32,1,Elizabeth Wells,Asia,2024-09-21,1
+C0111,1973.02,5,Roger David,Europe,2024-11-13,3
+C0112,1959.51,3,Brian Adkins,South America,2022-07-07,1
+C0113,4812.1,8,Joseph Ortiz Jr.,South America,2022-06-17,0
+C0114,5780.43,5,Benjamin Anderson,Europe,2024-11-18,2
+C0115,3137.18,3,Joshua Hamilton,Asia,2024-11-11,3
+C0116,2758.6800000000003,6,James Martinez,North America,2024-09-11,3
+C0117,4028.2700000000004,4,Jeffrey Mcmahon,North America,2024-11-22,3
+C0118,3434.77,6,Jacob Holt,South America,2022-01-22,2
+C0119,1191.61,5,David Armstrong,Europe,2023-11-13,3
+C0120,2470.02,3,Francisco Diaz,South America,2023-01-13,3
+C0121,974.52,4,Mark Atkinson,Europe,2023-07-23,1
+C0122,5072.55,7,Corey Ruiz,North America,2022-05-06,2
+C0123,1400.06,2,Jason Johnston,Asia,2023-11-05,1
+C0124,4264.33,7,Lindsay Perez,Europe,2024-08-26,2
+C0125,2973.96,4,Nicholas Taylor,North America,2022-12-18,3
+C0126,4565.57,6,Caitlin Brown,South America,2024-02-20,2
+C0127,3232.88,6,Kathryn Stevens,Europe,2024-04-04,2
+C0128,773.19,2,Henry Leach,Asia,2023-05-29,1
+C0129,2339.61,3,Marcus Livingston,South America,2024-04-14,3
+C0130,601.36,1,Robert Jones,South America,2023-04-19,1
+C0131,1943.82,3,Scott Wilson,North America,2022-06-05,1
+C0132,1851.2599999999998,3,Lisa Jackson,Europe,2023-02-01,1
+C0133,2884.33,4,Gwendolyn Carter,South America,2023-03-11,3
+C0134,2679.28,5,Theresa Gonzalez,Asia,2022-02-19,3
+C0135,3135.58,4,Toni Weaver,Europe,2022-08-23,3
+C0136,4298.99,6,Kristen Holder,Asia,2024-03-14,2
+C0137,3332.55,5,Robert Gardner,South America,2024-04-09,3
+C0138,5610.25,5,Cynthia Clayton,Asia,2024-11-01,2
+C0139,3703.64,8,Ricky Gutierrez,North America,2022-03-14,2
+C0140,1888.1399999999999,2,Gregory Estrada,Asia,2023-07-01,1
+C0141,10673.869999999999,10,Paul Parsons,Europe,2023-02-23,0
+C0142,2239.04,4,Nicole Long DVM,Asia,2024-02-08,3
+C0143,6044.63,7,Brian Parker,Asia,2024-05-27,0
+C0144,1304.6799999999998,2,Andrea Hart,North America,2024-09-30,1
+C0145,5771.27,8,Wayne Stone,Asia,2023-01-13,0
+C0146,2570.8,4,Brittany Harvey,Asia,2024-09-04,3
+C0147,2948.44,9,Hunter Fuller,South America,2022-05-16,2
+C0148,5457.79,5,Matthew Rogers,South America,2023-04-16,2
+C0149,4404.78,5,Tina Wilson,Europe,2023-01-21,2
+C0150,580.34,1,Angela Williams,South America,2022-09-13,1
+C0151,223.96,1,Amber Gonzalez,South America,2024-11-22,1
+C0152,3385.8599999999997,5,Justin Evans,South America,2022-04-19,3
+C0153,4744.79,6,Justin Smith,South America,2022-03-20,2
+C0154,3703.61,6,Robert Sharp,North America,2024-10-27,2
+C0155,5377.83,7,Michelle Brown,South America,2023-03-23,0
+C0156,7634.45,11,William Adams,North America,2023-08-19,0
+C0157,1876.1,5,Miguel Wong,North America,2024-01-30,3
+C0158,3716.52,4,Wendy Browning,South America,2023-04-12,3
+C0159,2072.41,3,Austin Miller,Asia,2022-08-06,1
+C0160,2926.93,5,Jodi Cook,North America,2022-04-05,3
+C0161,3141.83,8,Jessica Warren,Asia,2022-03-14,2
+C0162,4802.24,8,Edwin Watson,Asia,2022-03-29,0
+C0163,5775.28,6,Tiffany Cain,South America,2023-06-08,2
+C0164,3087.69,5,Morgan Perez,Europe,2023-06-01,3
+C0165,6708.1,9,Juan Mcdaniel,South America,2022-04-09,0
+C0166,2405.3500000000004,4,John Rogers,Europe,2022-02-13,3
+C0167,2300.42,3,Brandy Welch,Europe,2024-01-27,3
+C0168,5053.83,4,Karen Clements MD,South America,2022-12-13,2
+C0169,4533.32,6,Jennifer Shaw,South America,2023-04-13,2
+C0170,4931.74,5,Logan Harris,Europe,2023-09-13,2
+C0171,5145.35,5,Michael Cowan,South America,2022-12-16,2
+C0172,2201.7,6,Jamie Webb,Europe,2024-09-09,3
+C0173,5808.04,8,Francisco Young,Asia,2022-10-06,0
+C0174,2891.95,5,Tracy Steele,South America,2022-11-03,3
+C0175,6210.53,10,Matthew Johnson,Asia,2022-04-16,0
+C0176,2331.32,3,Nicole Booth,North America,2022-03-23,3
+C0177,2509.81,4,Julia Kelly,Asia,2024-06-01,3
+C0178,2708.83,4,Carol Williams,Asia,2023-11-19,3
+C0179,3652.83,6,Donald Miller,Europe,2022-10-16,2
+C0181,3347.6000000000004,6,Alexander Barker,South America,2023-11-16,2
+C0182,4980.7699999999995,5,Joshua Preston,Europe,2024-12-28,2
+C0183,3850.2200000000003,5,Kimberly Johnson,North America,2024-01-23,2
+C0184,3393.1800000000003,7,Tina Jacobs,South America,2022-05-13,2
+C0185,3424.3199999999997,3,Kathleen Logan,North America,2023-10-17,3
+C0186,1761.6399999999999,3,Amber Alexander,Asia,2023-10-11,1
+C0187,4612.44,5,Kayla Kelly,South America,2024-08-02,2
+C0188,7111.320000000001,8,Anna Ball,South America,2022-05-17,0
+C0189,2643.21,5,Sherri Dixon,North America,2024-01-22,3
+C0190,2983.02,5,Alexander Lowe,South America,2024-05-31,3
+C0191,2997.9700000000003,5,Samantha Gibson DVM,South America,2024-04-07,3
+C0192,2072.7200000000003,4,Sarah Arias,South America,2022-09-15,3
+C0193,3009.2900000000004,4,Douglas Torres,Asia,2023-02-03,3
+C0194,3869.17,7,Stacy Cook,North America,2024-05-04,2
+C0195,4036.27,6,Jeremy Mclaughlin,South America,2024-09-17,2
+C0196,4982.88,4,Laura Watts,Europe,2022-06-07,2
+C0197,1928.65,3,Christina Harvey,Europe,2023-03-21,1
+C0198,931.83,2,Rebecca Ray,Europe,2022-02-27,1
+C0199,1979.28,4,Andrea Jenkins,Europe,2022-12-03,3
+C0200,4758.6,5,Kelly Cross,Asia,2023-06-11,2
