@@ -19,10 +19,9 @@ Perform EDA on the provided dataset and derive at least 5 business insights.
 
 ### Output:
 
-- Visualizations: [Screenshots included](screenshots/task1_outputs).
-  - `Screenshot (158).png`: Transaction Amount Distribution.
-  - `Screenshot (159).png`: Top Customers by Transaction Amount.
-  - `Screenshot (160).png`: Top Products by Sales.
+- Visualizations: [Screenshot of Transaction Amount Distribution](Screenshot%20(158).png).
+- Visualizations: [Screenshot of Top Customers by Transaction Amount](Screenshot%20(159).png).
+- Visualizations: [Screenshot of Top Products by Sales](Screenshot%20(160).png).
 
 ---
 
@@ -44,8 +43,8 @@ Build a model that takes a user’s profile and transaction history as input to 
 ### Output:
 
 - Recommended similar customers with assigned similarity scores.
-- Visualization: [Screenshot](Screenshot(161).png).
-![Top Customers by Transaction Amount](Screenshot%20(159).png)
+- Visualization: [Screenshot](Screenshot%20(161).png).
+
 ---
 
 ## Task 3: Customer Segmentation / Clustering
@@ -71,7 +70,7 @@ Segment customers into clusters using profile and transaction data to identify b
 ### Output:
 
 - Clustering results in both CSV format and visual plots.
-- Visualization: [Screenshot](Screenshot(162).png).
+- Visualization: [Screenshot](Screenshot%20(162).png).
 
 ---
 
