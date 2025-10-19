@@ -1,0 +1,69 @@
+Task-2
+
+This navigation bar features the Standard Chartered Bank logo on the left and provides easy access to key sections of the website. The main links — Home and About Us — are neatly aligned on the right side for quick navigation. A Login button with a small lock icon emphasizes secure access for users. The design is minimalistic, balanced, and professional, matching the bank’s branding style.
+
+Task-3
+
+The carousel section displays a visually engaging banner showcasing key banking services. It automatically slides through multiple promotional images and can also be navigated manually using the arrow buttons on either side. The design features a modern gradient background with illustrations representing various goals like home, travel, vehicle, and education loans. This section helps attract user attention and highlights the bank’s diverse financial offerings.
+
+Task-4
+
+The “Apply for Loan” section provides users with a complete overview of loan options and benefits offered by Standard Chartered Bank. It highlights the key advantages such as high loan amounts, quick disbursal, minimal documentation, and no collateral requirements.
+This section also presents detailed loan parameters — including loan amount range, interest rate, tenure, and processing fees — in a clean, card-based layout. Additionally, an interest rate comparison table allows users to easily evaluate rates across different loan brackets, ensuring transparency and helping them make informed financial decisions.
+
+Task-5
+
+The “Loans We Provide” section highlights the different loan options available to customers — including Personal Loans, Home Loans, and Vehicle Loans. Each option is neatly presented with a clear “Apply Now” button, encouraging users to begin their loan application process quickly. The design is simple, user-friendly, and emphasizes convenience by allowing users to select their desired loan type with a single click.
+
+Task-6
+
+This login page provides secure access for different types of users — Customers, Makers, and Checkers — of Standard Chartered Bank.
+Users can select their respective role from a dropdown menu and log in using their Username/Bank ID and Password. Additional options like “Remember Me”, “Forgot Password”, and “Don’t have an account? Then Sign Up” enhance user convenience and accessibility.
+The page features a clean and professional layout, with the bank’s logo and branding on the left and a modern, user-friendly login form on the right for a seamless experience.
+
+
+Task-7
+
+The “How to Apply for Loan” section outlines the step-by-step process for users to easily apply and get their loan approved. It starts with checking eligibility using an online tool, followed by applying for a loan, uploading documents, and submitting the application. Once submitted, users can get instant approval and finally receive funds directly into their bank account.
+The design uses numbered cards to clearly guide users through each stage, ensuring a smooth and transparent loan application experience.
+
+Task-8
+
+The About Us page provides a detailed overview of Standard Chartered Bank’s history, values, and global presence. It begins with “Our Story,” describing the bank’s long-standing legacy since 1853 and its mission to promote commerce and prosperity worldwide. The Core Values section highlights the principles of Integrity, Collaboration, Innovation, and Sustainability, which guide the organization’s work culture and service approach.
+The Leadership Team section introduces key executives responsible for strategic direction and financial excellence. Finally, the Global Presence section showcases the bank’s operations across 60+ markets, 1,000+ branches, and 85,000+ employees, emphasizing its strong international footprint and commitment to serving customers globally.
+
+
+Task-9
+
+The footer section provides users with essential information and easy navigation links. It includes the Standard Chartered Bank logo and a short tagline emphasizing the bank’s commitment to sustainable and long-term business growth.
+The Quick Links column offers direct access to key pages like Home, Personal Loan, Home Loan, and Credit Cards. The Customer Service section includes helpful links such as Contact Us, FAQ, Privacy Policy, and Terms & Conditions.
+The Contact Info area displays customer support details, including a helpline number, email address, and working hours, ensuring users can easily reach the bank for assistance. The footer ends with a copyright notice, reinforcing professionalism and brand identity.
+
+
+Task-10
+
+The overall page design follows Standard Chartered Bank’s professional branding standards, reflecting trust, stability, and innovation. The interface uses a clean layout, ample white space, and the bank’s signature blue and green color palette, symbolizing growth and reliability.
+Typography is simple and elegant for readability, while icons and illustrations add visual clarity without distraction. Each section is well-structured with consistent spacing, rounded cards, and smooth transitions — ensuring a modern, user-friendly experience that aligns with the bank’s reputation for excellence and professionalism.
+
+
+
+Task-1
+
+The Sign-Up Form allows new users to securely create an account with Standard Chartered Bank. It collects essential details such as first and last name, email address, phone number, and password, ensuring user identity and data protection.
+The form includes password confirmation and a terms and privacy policy agreement to enhance security and compliance. Designed with a clean and professional layout, the form combines a welcoming image on the left and a minimal input form on the right, reflecting the bank’s modern, trustworthy, and customer-focused branding.
+
+Task-2
+
+The Sign-Up Form includes robust data validation to ensure accuracy, security, and reliability of user information. Each input field is validated — users must enter a valid name, email address, and phone number in the correct format. Passwords are checked for strength and confirmation, ensuring they meet security requirements.
+Mandatory fields are marked with an asterisk (*), and form submission is restricted until all required information is correctly entered. This validation process helps maintain data integrity and ensures a secure onboarding experience, aligned with Standard Chartered Bank’s compliance and security standards.
+
+
+Task-3
+
+The password verification feature ensures user account security by requiring the user to create and confirm a strong password. It checks for password strength — including length, uppercase and lowercase letters, numbers, and special characters — to meet security standards.
+The system verifies that both password fields match exactly before allowing account creation, preventing login issues and unauthorized access. This feature aligns with Standard Chartered Bank’s commitment to safeguarding customer data and ensuring secure digital banking access.
+
+Task-4
+
+The Sign-Up Page is designed in alignment with Standard Chartered Bank’s branding standards, maintaining a consistent and professional look across the entire website. It uses the same CSS styling as other pages, ensuring uniformity in colors, typography, and layout.
+All pages — including Login, Home, and About Us — are interlinked for smooth navigation and a seamless user experience. The design reflects the bank’s core values of trust, simplicity, and professionalism, providing users with a visually cohesive and reliable digital interface.
